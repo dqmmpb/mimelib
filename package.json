@@ -23,10 +23,10 @@
   "main": "index.js",
   "license": "EUPL-1.1",
   "dependencies": {
-    "encoding": "~0.1.12",
     "addressparser": "~1.0.1"
   },
   "devDependencies": {
+    "encoding": "~0.1.12",
     "nodeunit": "*"
   },
   "keywords": [
